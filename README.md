@@ -1,1 +1,1 @@
-https://github.com/GrigoriySemenov/ono-tebe-nado
+https://github.com/GrigoriySemenov/ono-tebe-nado-fd
